@@ -1,0 +1,5 @@
+.contenedor { max-width: 960px; margin: 2rem auto; padding: 0 1rem; }
+input[type="search"] { width: 100%; padding: .6rem; margin-bottom: 1rem; border: 1px solid #ccd0d9; border-radius: 6px; }
+table { width: 100%; border-collapse: collapse; background: #fff; }
+th, td { text-align: left; padding: .6rem; border-bottom: 1px solid #eceef1; }
+.error { color: #c0392b; }
